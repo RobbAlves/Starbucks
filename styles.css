@@ -9,7 +9,7 @@
      padding-top: 20px; /* adiciona espaçamento */
      padding-right: 100px;
      padding-left: 100px;
-     overflow: hidden;
+    
 
  }
  
@@ -35,8 +35,8 @@
  .menu {
      display: flex;
      justify-content: center;
-     margin-top: -59px;
-     margin-right: 39px;
+     margin-top: -115px;
+     margin-right: 195px;
  }
  
  button {
@@ -98,7 +98,7 @@
      top: 0;
      left: 0;
      clip-path: circle(600px at right 800px);
-     margin-top: -58px;
+     margin-top: -0px;
  }
 
  .botao-verde{
